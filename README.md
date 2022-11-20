@@ -1,5 +1,9 @@
 In this assignment let's build an **Nxt Watch** by applying the concepts we have learned till now.
 
+<div>
+  <p>Click here to watch website Live - https://camvnxtwatch.ccbp.tech</p>
+</div>
+
 ### Refer to videos below:
 
 **Success View** <br/>
