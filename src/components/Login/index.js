@@ -99,20 +99,7 @@ class Login extends Component {
 
           return (
             <div className={`css-login-container ${backgroundcolorgray}`}>
-              <div
-                style={{
-                  borderStyle: 'solid',
-                  borderColor: 'black',
-                  marginBottom: '50px',
-                  padding: '5px',
-                }}
-                className={textColor}
-              >
-                <p>
-                  To SignIn - USERNAME - &apos;rahul&apos; and PASSWORD -
-                  &apos;rahul@2021&apos;
-                </p>
-              </div>
+              
               <form className={`css-login-form-container ${backgroundcolor}`}>
                 <div>
                   <img
