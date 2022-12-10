@@ -5,7 +5,7 @@ const themeContext = React.createContext({
   onChangeTheme: () => {},
   carList: [],
   onClickAddVideo: () => {},
-  onClickDeleteVideo: () => {},
+
 })
 
 export default themeContext
